@@ -5,10 +5,10 @@
 
 ## My System
 - Intel Core i7-8650U
-- 16GB DDR4-2400MHz RAM
+- 16GB DDR4 RAM
 - Intel UHD 620 Graphics
-- Samsung SSD 970 EVO 500GB
-- Intel Dual-Band Wireless-AC 9560
+- Toshiba KIOXIA 512GB SSD
+- Intel Wireless-AC 9560
 
 ## Completly Working
 1) Loudspeaker
