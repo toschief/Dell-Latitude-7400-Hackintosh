@@ -43,7 +43,7 @@ Everything not listet above
 - Boot into BIOS using f2 key
 - Reset to default BIOS
 - Reboot into BIOS
-
+-------------------------------------------------------------------
 - Advanced Boot Options - all unchecked
 - UEFI Boot Path Security - Always, Except internal HDD
  
