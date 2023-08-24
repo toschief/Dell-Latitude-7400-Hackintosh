@@ -60,8 +60,41 @@ Everything not listet above
 - Virtualization - unchecked
 - VT for Direct I/O - unchecked
 
+## Boot
+- Boot into Boot-Menu using f12 key
+- Select USB
+- If it reboots try again
+- When in Opencore menu press space
+- Select the orange dmg
+
+## Install
+- Connect to WIFI or LAN
+-------------------------------------------------------------------
+- Open Disk Utility
+- Select "Show all devices" under view
+- Select your disk
+- Click erase then select "APFS" and type a name
+- Exit Disk Utility
+-------------------------------------------------------------------
+- Open Reinstall macOS
+- Go throught
+-  Wait
+-------------------------------------------------------------------
+- If succesful it will reboot sometimes
+- Select macOS Installer if reboot to Opencore menu
+
+## Post-Install
+- Configure macOS as you like
+- Do this: https://dortania.github.io/OpenCore-Post-Install/universal/oc2hdd.html#grabbing-opencore-off-the-usb
+- Have fun!
+
+# Extras
+
+## Editing the EFI
+- Use this: https://dortania.github.io/OpenCore-Install-Guide/ or other sites
+
 ## Credits
 - toschief
-- dortina
+- dortina 
 - OpenIntelWireless
 - All other file creators
