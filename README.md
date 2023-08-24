@@ -1,3 +1,5 @@
+# DO NOT USE | NOT READY FOR USE
+
 # Dell Latitude-7400-Hackintosh Files
 
 ## Compatible MacOS Versions
@@ -29,6 +31,34 @@
 
 ## Unknown (not tested)
 Everything not listet above
+
+# Install Guide
+
+## Creating the USB
+- Create the USB like here: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/#creating-the-usb
+- Download the EFI for your version
+- Copy the EFI on the USB
+
+## BIOS Setup
+- Boot into BIOS using f2 key
+- Reset to default BIOS
+- Reboot into BIOS
+
+- Advanced Boot Options - all unchecked
+- UEFI Boot Path Security - Always, Except internal HDD
+ 
+- SATA Operations - AHCI
+
+- Secure Boot Enable - Disabled
+- Expert Key Management - unchecked
+  
+- Intel SGX Enable - Enabled
+- Enclave Memory Size - 64MB
+  
+- Fastboot - Thorough
+  
+- Virtualization - unchecked
+- VT for Direct I/O - unchecked
 
 ## Credits
 - toschief
