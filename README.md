@@ -6,7 +6,7 @@
 - Ventura
 
 ## My System
-- Intel Core i7-8650U
+- Intel Core i7-8665U
 - 16GB DDR4 RAM
 - Intel UHD 620 Graphics
 - Toshiba KIOXIA 512GB SSD
