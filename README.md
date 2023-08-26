@@ -13,21 +13,12 @@
 - Intel Wireless-AC 9560
 
 ## Completly Working
-1) Loudspeaker
-2) 3.5mm headphone jack
-4) Battery Management
-5) Backlight Control (Keys and Software)
-7) Touchpad with Gestures
-8) WiFi and LAN (per Adapter) (AirportItlwm)
-10) USB-C with Power Delivery for Charging
-11) Barrel Plug for Charging
-13) CPU 
-14) iGPU Acceleration
-15) Fn Keys
+Not tested
 
 ## Not working
+Not tested
 
-## Potential issues
+## Confirmed issues
 Open issue for it to be listed
 
 ## Unknown (not tested)
