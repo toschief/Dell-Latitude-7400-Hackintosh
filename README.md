@@ -1,5 +1,3 @@
-# ONLY USE WITH THIS SYSTEM OR EDIT FOR YOUR SYSTEM
-
 # Dell Latitude-7400-Hackintosh Files
 
 ## Compatible MacOS Versions
@@ -12,10 +10,7 @@
 - Toshiba KIOXIA 512GB SSD
 - Intel Wireless-AC 9560
 
-## Completly Working
-Not tested
-
-## Not working
+## Working
 Not tested
 
 ## Confirmed issues
@@ -28,9 +23,6 @@ Open issue for it to be listed
 - WWAN (SIM)
 - GPS
 - Microphone
-
-## Unknown (not tested)
-Everything not listet above
 
 # Install Guide
 
