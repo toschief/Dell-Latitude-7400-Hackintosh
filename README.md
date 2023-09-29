@@ -21,6 +21,14 @@ Not tested
 ## Confirmed issues
 Open issue for it to be listed
 
+- Bluetooth
+- Airport Stuff (Airdrop, Sidecar, etc.)
+- Bootchime
+- HDMI
+- WWAN (SIM)
+- GPS
+- Microphone
+
 ## Unknown (not tested)
 Everything not listet above
 
