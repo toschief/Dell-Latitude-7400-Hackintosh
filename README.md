@@ -11,7 +11,7 @@
 - Intel Wireless-AC 9560
 
 ## Working
-Not tested
+- Dual Boot with Linux
 
 ## Confirmed issues
 Open issue for it to be listed
