@@ -10,9 +10,6 @@
 - Toshiba KIOXIA 512GB SSD
 - Intel Wireless-AC 9560
 
-## Working
-- Dual Boot with Linux
-
 ## Confirmed issues
 Open issue for it to be listed
 
