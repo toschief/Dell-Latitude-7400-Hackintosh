@@ -1,5 +1,8 @@
 # Dell Latitude-7400-Hackintosh Files
 
+##Important
+I do not test the versions!
+
 ## Compatible MacOS Versions
 - Ventura
 
