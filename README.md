@@ -1,7 +1,7 @@
 # Dell Latitude-7400-Hackintosh Files
 
 ## Important
-I do not test the versions!
+No testing is being done! I am not responsible for your problems!
 
 ## Compatible MacOS Versions
 - Ventura
@@ -18,7 +18,6 @@ I do not test the versions!
 ## Confirmed issues
 Open issue for it to be listed
 
-- Bluetooth
 - Airport Stuff (Airdrop, Sidecar, etc.)
 - Bootchime
 - HDMI
