@@ -5,6 +5,8 @@ I do not test the versions!
 
 ## Compatible MacOS Versions
 - Ventura
+- Monterey
+- BigSur
 
 ## My System
 - Intel Core i7-8665U
