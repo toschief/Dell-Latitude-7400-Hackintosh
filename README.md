@@ -83,6 +83,11 @@ Open issue for it to be listed
 
 # Extras
 
+## Updating
+
+- Just do this with the new EFI: https://dortania.github.io/OpenCore-Post-Install/universal/oc2hdd.html#grabbing-opencore-off-the-usb
+- If your upgrading to new macOS version replace EFI before you reboot!
+
 ## Editing the EFI
 - Use this: https://dortania.github.io/OpenCore-Install-Guide/ or other sites
 
