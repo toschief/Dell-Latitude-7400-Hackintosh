@@ -76,12 +76,17 @@ Open issue for it to be listed
 - If succesful it will reboot sometimes
 - Select macOS Installer if reboot to Opencore menu
 
-## Post-Install
+##Post-Install
 - Configure macOS as you like
 - Do this: https://dortania.github.io/OpenCore-Post-Install/universal/oc2hdd.html#grabbing-opencore-off-the-usb
 - Have fun!
 
 # Extras
+
+## Updating
+
+- Just do this with the new EFI: https://dortania.github.io/OpenCore-Post-Install/universal/oc2hdd.html#grabbing-opencore-off-the-usb
+- If your upgrading to new macOS version replace EFI before you reboot!
 
 ## Editing the EFI
 - Use this: https://dortania.github.io/OpenCore-Install-Guide/ or other sites
