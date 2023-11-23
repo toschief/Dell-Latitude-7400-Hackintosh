@@ -76,7 +76,7 @@ Open issue for it to be listed
 - If succesful it will reboot sometimes
 - Select macOS Installer if reboot to Opencore menu
 
-## Post-Install
+##Post-Install
 - Reboot, press space in Opencore menu and reset nvram
 - Configure macOS as you like
 - Do this: https://dortania.github.io/OpenCore-Post-Install/universal/oc2hdd.html#grabbing-opencore-off-the-usb
