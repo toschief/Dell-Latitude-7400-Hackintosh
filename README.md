@@ -95,7 +95,7 @@ Open issue for it to be listed
 - You can also use this: https://github.com/ic005k/OCAuxiliaryTools for simpler editing
 
 ## Contributing
-Guidlines: https://github.com/toschief/Dell-Latitude-7400-Hackintosh/blob/4308263a2a95329e4da731433a0454f5ce33eca4/CONTRIBUTING.md
+Guidlines: CONTRIBUTING.md
 
 ## Credits
 - toschief
