@@ -29,7 +29,7 @@ Open issue for it to be listed
 
 ## Creating the USB
 - Download the EFI for your version, unzip and extract EFI folder
-- Do this https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake.html#platforminfo (use MacBookPro15,1)
+- Do this: https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake.html#platforminfo (use MacBookPro15,1)
 - Create the USB like here: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/#creating-the-usb
 
 ## BIOS Setup
@@ -91,7 +91,7 @@ Open issue for it to be listed
 
 ## Editing the EFI
 - Use this: https://dortania.github.io/OpenCore-Install-Guide/ or other sites
-- You can also use this https://github.com/ic005k/OCAuxiliaryTools for simpler editing
+- You can also use this: https://github.com/ic005k/OCAuxiliaryTools for simpler editing
 
 ## Credits
 - toschief
