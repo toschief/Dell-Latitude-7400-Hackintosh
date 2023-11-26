@@ -91,6 +91,7 @@ Open issue for it to be listed
 
 ## Editing the EFI
 - Use this: https://dortania.github.io/OpenCore-Install-Guide/ or other sites
+- You can also use this https://github.com/ic005k/OCAuxiliaryTools for simpler editing
 
 ## Credits
 - toschief
