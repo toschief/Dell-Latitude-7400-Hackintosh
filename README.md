@@ -4,6 +4,7 @@
 No testing is being done! I am not responsible for your problems!
 
 ## Compatible MacOS Versions
+- Sonoma (Could be unstable)
 - Ventura
 - Monterey
 - BigSur
