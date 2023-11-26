@@ -30,8 +30,8 @@ Open issue for it to be listed
 
 ## Creating the USB
 - Download the EFI for your version, unzip and extract EFI folder
-- Do this: https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake.html#platforminfo (use MacBookPro15,1)
-- Create the USB like here: https://dortania.github.io/OpenCore-Install-Guide/installer-guide/#creating-the-usb
+- [Generate your SMBIOS](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake.html#platforminfo) (use MacBookPro15,1)
+- [Create the USB](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/#creating-the-usb)
 
 ## BIOS Setup
 - Boot into BIOS using f2 key
@@ -80,22 +80,22 @@ Open issue for it to be listed
 ## Post-Install
 - Reboot, press space in Opencore menu and reset nvram
 - Configure macOS as you like
-- Do this: https://dortania.github.io/OpenCore-Post-Install/universal/oc2hdd.html#grabbing-opencore-off-the-usb
+- [Grab Opencore off the USB](https://dortania.github.io/OpenCore-Post-Install/universal/oc2hdd.html#grabbing-opencore-off-the-usb)
 - Have fun!
 
 # Extras
 
 ## Updating
 
-- Just do this with the new EFI: https://dortania.github.io/OpenCore-Post-Install/universal/oc2hdd.html#grabbing-opencore-off-the-usb
+- Just do this with the new EFI: [Grabbing Opencore off the USB](https://dortania.github.io/OpenCore-Post-Install/universal/oc2hdd.html#grabbing-opencore-off-the-usb)
 - If your upgrading to new macOS version replace EFI before you reboot!
 
 ## Editing the EFI
-- Use this: https://dortania.github.io/OpenCore-Install-Guide/ or other sites
-- You can also use this: https://github.com/ic005k/OCAuxiliaryTools for simpler editing
+- Use [Opencore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/) or other sites
+- You can also use [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) for simpler editing
 
 ## Contributing
-Guidlines: CONTRIBUTING.md
+Follow the [Guidelines](https://github.com/toschief/Dell-Latitude-7400-Hackintosh/blob/4308263a2a95329e4da731433a0454f5ce33eca4/CONTRIBUTING.md)
 
 ## Credits
 - toschief
