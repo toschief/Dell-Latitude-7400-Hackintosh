@@ -1,6 +1,6 @@
 # Dell Latitude-7400-Hackintosh Files
 
-## Important
+## Important Notice
 No testing is being done! I am not responsible for your problems!
 
 ## Compatible MacOS Versions
@@ -16,7 +16,7 @@ No testing is being done! I am not responsible for your problems!
 - Toshiba KIOXIA 512GB SSD
 - Intel Wireless-AC 9560
 
-## Confirmed issues
+## Confirmed Issues
 Open issue for it to be listed
 
 - Airport Stuff (Airdrop, Sidecar, etc.)
