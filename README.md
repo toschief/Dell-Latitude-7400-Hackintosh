@@ -102,7 +102,8 @@ Open issue for it to be listed
 Follow the [Guidelines](https://github.com/toschief/Dell-Latitude-7400-Hackintosh/blob/4308263a2a95329e4da731433a0454f5ce33eca4/CONTRIBUTING.md)
 
 ## Credits
-- toschief
-- dortina 
-- OpenIntelWireless
-- All other file creators
+- toschief for EFI and Guide
+- dortina for Opencore and Opencore Guide
+- OpenIntelWireless for Intel Wifi and Bluetooth
+- Apple for macOS
+- All other file creators for their great work on hardware support
