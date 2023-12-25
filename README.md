@@ -1,7 +1,10 @@
 # Dell Latitude-7400-Hackintosh Files
 
-## Important Notice
-No testing is being done! I am not responsible for your problems!
+## Disclaimer
+- No testing is being done! 
+- I am not responsible for your problems!
+- If you destroy your hardware or software it is your problem!
+
 
 ## Compatible MacOS Versions
 - Sonoma (Could be unstable)
@@ -20,6 +23,7 @@ No testing is being done! I am not responsible for your problems!
 Open issue for it to be listed
 
 - Airport Stuff (Airdrop, Sidecar, etc.)
+- Sometimes Bluetooth (Sonoma is good)
 - Bootchime
 - HDMI
 - WWAN (SIM)
