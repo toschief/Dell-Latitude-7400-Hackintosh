@@ -42,7 +42,6 @@ Open issue for it to be listed
 - Reset to default BIOS
 - Reboot into BIOS
 -------------------------------------------------------------------
-- Advanced Boot Options - all unchecked
 - UEFI Boot Path Security - Always, Except internal HDD
  
 - SATA Operations - AHCI
@@ -54,9 +53,6 @@ Open issue for it to be listed
 - Enclave Memory Size - 64MB
   
 - Fastboot - Thorough
-  
-- Virtualization - unchecked
-- VT for Direct I/O - unchecked
 
 ## Boot
 - Boot into Boot-Menu using f12 key
