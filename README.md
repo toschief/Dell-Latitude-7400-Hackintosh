@@ -64,13 +64,13 @@ Open issue for it to be listed
 - Select "Show all devices" under view
 - Select your disk
 - Click erase then select "APFS" and type a name
-
+-------------------------------------------------------------------
 If you want to dual boot:
 
 - Click on Partition
 - Create a Partition for each OS
 - Save
-
+-------------------------------------------------------------------
 - Exit Disk Utility
 -------------------------------------------------------------------
 - Open Reinstall macOS
