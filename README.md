@@ -1,7 +1,10 @@
-# Dell Latitude-7400-Hackintosh Files
+# Dell Latitude-7400-Hackintosh
 
-## Important Notice
-No testing is being done! I am not responsible for your problems!
+## Disclaimer
+- No testing is being done! 
+- I am not responsible for your problems!
+- If you destroy your hardware or software it is your problem!
+
 
 ## Compatible MacOS Versions
 - Sonoma (Could be unstable)
@@ -20,6 +23,7 @@ No testing is being done! I am not responsible for your problems!
 Open issue for it to be listed
 
 - Airport Stuff (Airdrop, Sidecar, etc.)
+- Sometimes Bluetooth (Sonoma is good)
 - Bootchime
 - HDMI
 - WWAN (SIM)
@@ -29,18 +33,15 @@ Open issue for it to be listed
 # Install Guide
 
 ## Creating the USB
-- Download the EFI for your version, unzip and extract EFI folder
+- Download the EFI for your macOS Version, unzip and extract EFI Folder
 - [Generate your SMBIOS](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake.html#platforminfo) (use MacBookPro15,1)
 - [Create the USB](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/#creating-the-usb)
 
 ## BIOS Setup
-- Boot into BIOS using f2 key
-- Reset to default BIOS
+- Boot into BIOS using the F2 Key
+- Reset to Default BIOS
 - Reboot into BIOS
 -------------------------------------------------------------------
-- Advanced Boot Options - all unchecked
-- UEFI Boot Path Security - Always, Except internal HDD
- 
 - SATA Operations - AHCI
 
 - Secure Boot Enable - Disabled
@@ -48,26 +49,28 @@ Open issue for it to be listed
   
 - Intel SGX Enable - Enabled
 - Enclave Memory Size - 64MB
-  
-- Fastboot - Thorough
-  
-- Virtualization - unchecked
-- VT for Direct I/O - unchecked
 
 ## Boot
-- Boot into Boot-Menu using f12 key
+- Boot into Boot-Menu using F12 Key
 - Select USB
 - If it reboots try again
-- When in Opencore menu press space
-- Select the orange dmg
+- When in Opencore Menu press Space Key
+- Select the orange Option (dmg)
 
 ## Install
 - Connect to WIFI or LAN
 -------------------------------------------------------------------
 - Open Disk Utility
-- Select "Show all devices" under view
+- Select "Show all devices" under View
 - Select your disk
 - Click erase then select "APFS" and type a name
+-------------------------------------------------------------------
+If you want to dual boot:
+
+- Click on Partition
+- Create a Partition for each OS
+- Save
+-------------------------------------------------------------------
 - Exit Disk Utility
 -------------------------------------------------------------------
 - Open Reinstall macOS
@@ -75,7 +78,7 @@ Open issue for it to be listed
 - Wait
 -------------------------------------------------------------------
 - If succesful it will reboot sometimes
-- Select macOS Installer if reboot to Opencore menu
+- Select macOS Installer if it reboots to Opencore Menu
 
 ## Post-Install
 - Reboot, press space in Opencore menu and reset nvram
@@ -88,7 +91,11 @@ Open issue for it to be listed
 ## Updating
 
 - Just do this with the new EFI: [Grabbing Opencore off the USB](https://dortania.github.io/OpenCore-Post-Install/universal/oc2hdd.html#grabbing-opencore-off-the-usb)
-- If your upgrading to new macOS version replace EFI before you reboot!
+- If you upgrade to new macOS Version replace EFI before you reboot!
+
+## Dual Boot with Linux/Windows
+
+- Install your other OS on an empty Partition you created during Install 
 
 ## Editing the EFI
 - Use [Opencore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/) or other sites
@@ -98,7 +105,8 @@ Open issue for it to be listed
 Follow the [Guidelines](https://github.com/toschief/Dell-Latitude-7400-Hackintosh/blob/4308263a2a95329e4da731433a0454f5ce33eca4/CONTRIBUTING.md)
 
 ## Credits
-- toschief
-- dortina 
-- OpenIntelWireless
-- All other file creators
+- toschief for EFI and Guide
+- dortina for Opencore and Opencore Guide
+- OpenIntelWireless for Intel Wifi and Bluetooth
+- Apple for macOS
+- All other file creators for their great work on hardware support

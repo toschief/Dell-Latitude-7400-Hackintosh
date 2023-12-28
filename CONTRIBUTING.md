@@ -1,9 +1,9 @@
 # Contributing Guidelines
 
 ## What to do
-- describe your change
-- verify it is working
-- pass a check
+- Describe your change
+- Verify it is working
+- Pass a check
 
 ## What not to do
 - Contribute broken or harmful files
