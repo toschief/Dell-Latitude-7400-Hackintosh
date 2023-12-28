@@ -93,6 +93,10 @@ If you want to dual boot:
 - Just do this with the new EFI: [Grabbing Opencore off the USB](https://dortania.github.io/OpenCore-Post-Install/universal/oc2hdd.html#grabbing-opencore-off-the-usb)
 - If you upgrade to new macOS Version replace EFI before you reboot!
 
+## Dual Boot with Linux/Windows
+
+- Install your other OS on an empty Partition you created during Install 
+
 ## Editing the EFI
 - Use [Opencore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/) or other sites
 - You can also use [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) for simpler editing
