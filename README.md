@@ -1,4 +1,4 @@
-# Dell Latitude-7400-Hackintosh Files
+# Dell Latitude-7400-Hackintosh
 
 ## Disclaimer
 - No testing is being done! 
