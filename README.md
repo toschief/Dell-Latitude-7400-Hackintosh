@@ -42,8 +42,6 @@ Open issue for it to be listed
 - Reset to default BIOS
 - Reboot into BIOS
 -------------------------------------------------------------------
-- UEFI Boot Path Security - Always, Except internal HDD
- 
 - SATA Operations - AHCI
 
 - Secure Boot Enable - Disabled
@@ -51,8 +49,6 @@ Open issue for it to be listed
   
 - Intel SGX Enable - Enabled
 - Enclave Memory Size - 64MB
-  
-- Fastboot - Thorough
 
 ## Boot
 - Boot into Boot-Menu using f12 key
